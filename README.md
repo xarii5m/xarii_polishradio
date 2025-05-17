@@ -11,3 +11,7 @@ with real Polish radio streams.
 - Implements **fallback URLs** for stream reliability
 - Includes a **browser-based testing** interface
 - Uses **Howler.js** for **efficient, cross-platform audio** streaming
+
+## 📦 | Installation
+1. **Download or clone** this repository into your ``resources`` folder
+``git clone https://github.com/yourusername/xarii_polishradio.git``
