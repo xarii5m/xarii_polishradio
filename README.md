@@ -14,4 +14,6 @@ with real Polish radio streams.
 
 ## 📦 | Installation
 1. **Download or clone** this repository into your ``resources`` folder
-``git clone https://github.com/yourusername/xarii_polishradio.git``
+```
+git clone https://github.com/yourusername/xarii_polishradio.git
+```
